@@ -8,6 +8,7 @@ dependencies:
   - attrs=19.1.0
   - backcall=0.1.0
   - bleach=3.1.0
+  - bzip2=1.0.6
   - ca-certificates=2019.3.9
   - certifi=2019.3.9
   - cloudpickle=0.8.1
@@ -21,6 +22,7 @@ dependencies:
   - expat=2.2.6
   - fontconfig=2.13.0
   - freetype=2.9.1
+  - gettext=0.19.8.1
   - glib=2.56.2
   - gmp=6.1.2
   - gst-plugins-base=1.14.0
@@ -46,6 +48,7 @@ dependencies:
   - libffi=3.2.1
   - libgcc-ng=8.2.0
   - libgfortran-ng=7.3.0
+  - libiconv=1.15
   - liblapack=3.8.0
   - libpng=1.6.36
   - libsodium=1.0.16
@@ -79,6 +82,7 @@ dependencies:
   - prometheus_client=0.6.0
   - prompt_toolkit=2.0.9
   - psutil=5.6.2
+  - pthread-stubs=0.4
   - ptyprocess=0.6.0
   - py=1.8.0
   - pygments=2.3.1
@@ -115,6 +119,8 @@ dependencies:
   - webencodings=0.5.1
   - wheel=0.33.1
   - widgetsnbextension=3.4.2
+  - xorg-libxau=1.0.9
+  - xorg-libxdmcp=1.1.3
   - xz=5.2.4
   - zeromq=4.3.1
   - zlib=1.2.11
